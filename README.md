@@ -6,14 +6,14 @@ NOVA PROJECT
 │   ├── TTS ✅
 │   ├── Windows actions ✅
 │   └── Basic commands ✅
-│
+<br>
 ├── V1.5
 │   ├── Apps/websites ✅
 │   ├── Search ✅
 │   ├── Volume ✅
 │   ├── Screenshot ✅
 │   └── System actions ✅
-│
+<br>
 └── V2 — AI Brain
     ├── Ollama ✅
     ├── Qwen3 4B ✅
